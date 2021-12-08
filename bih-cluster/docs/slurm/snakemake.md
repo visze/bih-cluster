@@ -106,6 +106,6 @@ The DRMAA interface to Slurm has a few limitations:
 - `--export` is not supported by drmaa yet.
   The default of SLURM is `--export=ALL` (similar to `-V` for SGE).
 
-A full list of supported parameters can be found [in the officical documentation](http://apps.man.poznan.pl/trac/slurm-drmaa#Nativespecification).
+A full list of supported parameters can be found [in the officical documentation](https://apps.man.poznan.pl/trac/slurm-drmaa#Nativespecification).
 
 ... that's all, folks!
