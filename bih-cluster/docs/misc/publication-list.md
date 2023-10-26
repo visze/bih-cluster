@@ -8,12 +8,22 @@ It has been used to support the publications listed below.
 
 ## Articles & Preprints
 
+### 2023
+
+Agarwal V, Inoue F, Schubach M, Martin BK, Dash PM, Zhang Z, Sohota A, Noble WS, Yardimci GG, Kircher M, Shendure J, Ahituv N. Massively parallel characterization of transcriptional regulatory elements in three diverse human cell types. bioRxiv [Preprint]. 2023 Mar 6:2023.03.05.531189. doi: [10.1101/2023.03.05.531189]((https://doi.org/10.1101/2023.03.05.531189). PMID: 36945371; PMCID: PMC10028905.
+
+Max Schubach, Lusiné Nazaretyan, Martin Kircher, The Regulatory Mendelian Mutation score for GRCh38, GigaScience, Volume 12, 2023, giad024, [10.1093/gigascience/giad024](https://doi.org/10.1093/gigascience/giad024)
+
 ### 2022
 
 Kossen T, Hirzel MA, Madai VI, Boenisch F, Hennemuth A, Hildebrand K, Pokutta S, Sharma K, Hilbert A, Sobesky J, Galinovic I, Khalil AA, Fiebach JB and Frey D. Toward Sharing Brain Images: Differentially Private TOF-MRA Images With Segmentation Labels Using Generative Adversarial Networks. *Frontiers in
 Artificial Intelligence*. 5 (2022). issn: 2624-8212. [doi: 10.3389/frai.2022.813842](https://doi.org/10.3389/frai.2022.813842)
 
+Ralf Oheim, Elena Tsourdi, Lothar Seefried, Gisela Beller, Max Schubach, Eik Vettorazzi, Julian Stürznickel, Tim Rolvien, Nadja Ehmke, Alena Delsmann, Franca Genest, Ulrike Krüger, Tomasz Zemojtel, Florian Barvencik, Thorsten Schinke, Franz Jakob, Lorenz C Hofbauer, Stefan Mundlos, Uwe Kornak, Genetic Diagnostics in Routine Osteological Assessment of Adult Low Bone Mass Disorders, The Journal of Clinical Endocrinology & Metabolism, Volume 107, Issue 7, July 2022, Pages e3048–e3057, [10.1210/clinem/dgac147](https://doi.org/10.1210/clinem/dgac147)
+
 ### 2021
+
+Rentzsch, P., Schubach, M., Shendure, J. et al. CADD-Splice—improving genome-wide variant effect prediction using deep learning-derived splice scores. Genome Med 13, 31 (2021). [10.1186/s13073-021-00835-9](https://doi.org/10.1186/s13073-021-00835-9)
 
 Li, N., Hollunder, B., Baldermann, J. C., Kibleur, A., Treu, S., Akram, H., Al-Fatly, B., Strange, B. A., Barcia, J. A., Zrinzo, L., Joyce, E. M., Chabardes, S., Visser-Vandewalle, V., Polosan, M., Kuhn, J., Kühn, A. A., & Horn, A. (2021). A Unified Functional Network Target for Deep Brain Stimulation in Obsessive-Compulsive Disorder. Biological Psychiatry. [doi: 10.1016/j.biopsych.2021.04.006](https://doi.org/10.1016/j.biopsych.2021.04.006)
 
